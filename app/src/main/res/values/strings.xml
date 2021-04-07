@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Exercisee</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="bsignin">Sign-In</string>
+    <string name="tData">Data Anda</string>
+    <string name="txemail">ini hasil email</string>
+    <string name="txpassword">ini hasil password</string>
+    <string name="label2">Login berhasil</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="datakontak">Data Kontak</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomor</string>
+    <string name="blDaftar">BELUM TERDAFTAR?</string>
+    <string name="search">Masukkan Pencarian</string>
+    <string name="Masukalamat">Masukkan Alamat</string>
+    <string name="MasukkanNama">Masukkan Nama</string>
+    <string name="MasEmail">Masukkan Email</string>
+    <string name="MasPass">Masukkan Password</string>
+    <string name="MasKemPassword">Masukkan Kembali Password</string>
+    <string name="Pendaftaran">DAFTAR</string>
+    <string name="jenisklm">Jenis Kelamin</string>
+    <string name="Laki">Laki-Laki</string>
+    <string name="Prem">Perempuan</string>
+    <string name="Agama">Agama</string>
+    <string name="katolik">Katolik</string>
+    <string name="islam">Islam</string>
+    <string name="konghucu">Konghucu</string>
+    <string name="hindu">Hindu</string>
+    <string name="budha">Budha</string>
+    <string name="kristen">Kristen</string>
+    <string name="pkepercayaan">Penganut Kepercayaan</string>
+    <string name="btnBtl">Batal</string>
+    <string name="btnDftr">Daftar</string>
+    <string name="title_activity_live_view">LiveViewActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
